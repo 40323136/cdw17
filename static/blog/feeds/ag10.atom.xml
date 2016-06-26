@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="http://g4cdw18-40323138.rhcloud.com/static/blog/" rel="alternate"></link><link href="http://g4cdw18-40323138.rhcloud.com/static/blog/feeds/ag10.atom.xml" rel="self"></link><id>http://g4cdw18-40323138.rhcloud.com/static/blog/</id><updated>2016-06-27T01:01:26+08:00</updated><entry><title>40323129 cdw17 報告</title><link href="http://g4cdw18-40323138.rhcloud.com/static/blog/40323129-cdw17-bao-gao.html" rel="alternate"></link><updated>2016-06-27T01:01:26+08:00</updated><author><name>40323129</name></author><id>tag:g4cdw18-40323138.rhcloud.com,2016-06-27:static/blog/40323129-cdw17-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw17 協同專案&lt;/p&gt;
+
+
+&lt;p&gt;一.2D圖齒輪: &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://cdw17-40323138.rhcloud.com/a40323138/gears"&gt;http://cdw17-40323138.rhcloud.com/a40323138/gears&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/YR46nJD.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;說明:  該參數即可 後面嚙合時須改偏轉角即可
+用參數去算180-n1/n2 去減半齒去算&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/tHWQzsl.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;二.2D鏈條組立&lt;/p&gt;
+&lt;p&gt;橫式&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://cdw17-40323138.rhcloud.com/a40323138/eighteenthirty"&gt;http://cdw17-40323138.rhcloud.com/a40323138/eighteenthirty&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/HSYIfrk.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;直式:
+橫式程式轉90度並改XY座標即可完成&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://cdw17-40323138.rhcloud.com/a40323138/eighteenthirty"&gt;http://cdw17-40323138.rhcloud.com/a40323138/eighteenthirty&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/d1xUB8G.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;三.3D圖opshape:&lt;/p&gt;
+&lt;p&gt;2個同齒&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/uDd0ITZ.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/6f4097401c8c64527322213d/w/e32c55f29aae06b85d2076ed/e/55b05edb8bdfaea847473021"&gt;https://cad.onshape.com/documents/6f4097401c8c64527322213d/w/e32c55f29aae06b85d2076ed/e/55b05edb8bdfaea847473021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;影片說明步驟&lt;/p&gt;
+&lt;p&gt;&lt;a href=" https://www.youtube.com/watch?v=SzEklRqC37c"&gt; https://www.youtube.com/watch?v=SzEklRqC37c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4個不同齒&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/mCKAjON.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/bbb5ef35e062e3b067049cf4/w/b78367ee620f25ed1b845b7b/e/8a8781479e9960bcdd201169"&gt;https://cad.onshape.com/documents/bbb5ef35e062e3b067049cf4/w/b78367ee620f25ed1b845b7b/e/8a8781479e9960bcdd201169&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;影片說明步驟&lt;/p&gt;
+&lt;p&gt;&lt;a href=" https://www.youtube.com/watch?v=AnPpZMx6gck"&gt;https://www.youtube.com/watch?v=AnPpZMx6gck&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;心得:這學期我學到原來圖形是可以用程式控制的，像是2D齒輪的畫製，現階段的我們還寫不出完整的架構，所以使用老師給的架構去更改裡面的參數，像是齒輪的角度位置模數等等，從中來學習架構程序。而3D ONSHAPE的齒輪畫製，較為麻煩的為偏轉角的設計，像是報告中4個不同齒齒輪的囓合就花了我不少的時間去研究如何讓每個齒輪都齒合到，還有轉速比的設計，轉速比參數使用錯誤會導致不同齒的齒輪轉動時轉速卻一樣快，這在現實中是不會發生的，齒輪是一齒接一齒的、根據齒數的不同，齒輪從動輪與主動輪的轉速自然會不同，而ONSHAPE雲端繪圖，繪製時並不用像以前需按存檔鍵，因為在繪製時ONSHAPE就會自動幫你存檔，我覺得這功能是十分方便的，裡面還有一個功能我覺得很驚艷，就是協同同步編輯，這功能老師也有分組讓我們練習使用，只要將組員一一的加入協同步編輯，就可以看到別人畫的東西會及時的顯示在你的ONSHAPE裡，達到同步創作的功能。上完這堂課後我覺得在我求學的歷程中又獲得了一段寶貴的經驗。&lt;/p&gt;
+&lt;p&gt;自評:70&lt;/p&gt;</summary><category term="40323129"></category><category term="cdw17"></category></entry></feed>
